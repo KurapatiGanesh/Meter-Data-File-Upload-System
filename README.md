@@ -10,7 +10,7 @@ A role-based web application designed for secure weekly electricity meter data u
 **Backend:** Django (REST APIs)  
 **Database:** PostgreSQL  
 **API Testing:** Postman  
-**Language:** Python  
+**Language:** Python,Javascript
 
 ---
 
@@ -76,7 +76,23 @@ PostgreSQL Database + File Storage
 ---
 
 ## 📷 Screenshots
-*(Add screenshots of dashboard, upload page, admin panel here)*
+### Home Page
+![Home Page](Meterdata_file_upload/Home_Page.png)
+
+### Login Page
+![Login Page](Meterdata_file_upload/Login_page.png)
+
+### File Status
+![File Status](Meterdata_file_upload/File_status.png)
+
+### File Upload
+![File Upload](Meterdata_file_upload/File_upload.png)
+
+### Station Registration
+![Station Registration](Meterdata_file_upload/Station_Registration.png)
+
+### Registration Status
+![Registration Status](Meterdata_file_upload/Registration_status.png)
 
 ---
 
